@@ -1,6 +1,6 @@
 ## 2. Install Git CLI
 
-### Windows
+### Windows -- upload with ssh 
 
 **Option A winget (Windows 10/11, recommended)**
 ```powershell
