@@ -11,10 +11,6 @@ winget install --id Git.Git -e --source winget
 1. Download from **[https://git-scm.com/download/win](https://git-scm.com/download/win)**
 2. Run the installer
 3. Recommended settings to change from defaults:
-   - **Default editor** â†’ choose VS Code (if installed)
-   - **Initial branch name** â†’ select `main` (instead of `master`)
-   - **Adjusting PATH** â†’ "Git from the command line and also from 3rd-party software"
-   - Keep all other defaults
 
 **Verify (PowerShell or Git Bash):**
 ```powershell
